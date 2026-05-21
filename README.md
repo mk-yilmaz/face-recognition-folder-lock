@@ -25,7 +25,8 @@ Technologies used:
 * Raspberry Pi OS
 
 This project is designed for learning computer vision, Raspberry Pi optimization, and real-time face authentication.
-#-------------------------------------------------
+
+
 DE  German Version
 # Raspberry Pi Gesichtserkennung für private Ordner
 
