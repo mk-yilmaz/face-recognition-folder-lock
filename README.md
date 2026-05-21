@@ -1,6 +1,6 @@
 # face-recognition-folder-lock
 
-English
+🇬🇧 English Version
 # Raspberry Pi Face Recognition Folder Unlock
 
 A Raspberry Pi project that uses real-time face recognition with Picamera2 and OpenCV to automatically show or hide a private folder.
@@ -25,8 +25,8 @@ Technologies used:
 * Raspberry Pi OS
 
 This project is designed for learning computer vision, Raspberry Pi optimization, and real-time face authentication.
-
-German
+#-------------------------------------------------------------------------------------------------------------------------------------------------------
+DE  German Version
 # Raspberry Pi Gesichtserkennung für private Ordner
 
 Dieses Projekt verwendet eine Raspberry Pi Kamera, OpenCV und Gesichtserkennung, um einen privaten Ordner automatisch sichtbar oder unsichtbar zu machen.
